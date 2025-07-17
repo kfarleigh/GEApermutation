@@ -1,4 +1,4 @@
 # GEApermutation
-This repository will contain code to perform a statistical test to identify differential patterns of local adpatation. The paper has recently been accepted (8/31/23) and I will be uploading the code shortly. Feel free to reach out (farleik@miamioh.edu) if you have any questions or think that this may be applicable to your research.
+This contains code and input data to perform a GEA permutation test that was used in [Farleigh & Jezkova (2023)](https://link.springer.com/article/10.1007/s10980-023-01774-z). Please reach out to me (farleik@miamioh.edu) if you have any questions or think that this may be applicable to your research.
 
 -Keaka Farleigh
